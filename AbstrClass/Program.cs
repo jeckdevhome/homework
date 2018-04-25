@@ -61,7 +61,7 @@ namespace AbstrClass
         }
         public override void ChangeGear()
         {
-            Console.WriteLine("gear is: {0} ",gearType);
+            Console.WriteLine("gear is: {0} without mistakes",gearType);
             
         }
     }
