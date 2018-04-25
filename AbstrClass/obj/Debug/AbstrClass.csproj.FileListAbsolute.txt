@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\bin\Debug\AbstrClass.exe.config
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\bin\Debug\AbstrClass.exe
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\bin\Debug\AbstrClass.pdb
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\obj\Debug\AbstrClass.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\obj\Debug\AbstrClass.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\obj\Debug\AbstrClass.exe
+C:\Users\admin\source\repos\ConsoleApp2\AbstrClass\obj\Debug\AbstrClass.pdb
